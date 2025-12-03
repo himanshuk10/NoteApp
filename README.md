@@ -1,20 +1,3 @@
-Here is a **clean, simple, hand-written README.md** exactly like a real developer would submit for an assignment.
-You can copy-paste it directly into your project root as:
-
-```
-README.md
-```
-
----
-
-# 📌 README — Spring Boot Notes API (JWT Authentication)
-
-This project is a simple Spring Boot REST API that supports **user registration**, **login with JWT**, and **CRUD-style note creation/listing** for the authenticated user.
-
-It demonstrates clean code, JWT authentication, Spring Security 6 configuration, and basic database operations using H2 + JPA.
-
----
-
 ## 🚀 How to Run the Project
 
 ### **Prerequisites**
